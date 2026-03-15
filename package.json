@@ -7,6 +7,18 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "ws": "^8.13.0"
-  }
-} 
+    "ws": "^8.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janelletourneur/space-invaders.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/janelletourneur/space-invaders/issues"
+  },
+  "homepage": "https://github.com/janelletourneur/space-invaders#readme"
+}
