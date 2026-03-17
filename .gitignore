@@ -37,4 +37,12 @@ Thumbs.db
 .env.local
 .env.development.local
 .env.test.local
-.env.production.local 
+.env.production.local dataset_fullframe/train/FIRE/*
+dataset_fullframe/train/LEFT/*
+dataset_fullframe/train/QUIT/*
+dataset_fullframe/train/RIGHT/*
+
+!dataset_fullframe/train/FIRE/.gitkeep
+!dataset_fullframe/train/LEFT/.gitkeep
+!dataset_fullframe/train/QUIT/.gitkeep
+!dataset_fullframe/train/RIGHT/.gitkeep
