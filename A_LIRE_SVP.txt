@@ -1,0 +1,16 @@
+Bonjour Monsieur Valade,
+
+Tout d'abord j'espère que vous allez bien. 
+
+Voici les documents à considérer dans notre projet :
+
+- le rapport en version finale format pdf : "computer_vision_project_version_finale.pdf"
+- les codes suivants en python :
+	- collect_dataset.py
+	- train_model.py
+	- train_model_yolo.py
+	- cv_controller.py
+
+Merci pour votre considération et bonne lecture. 
+
+Bien à vous, 
